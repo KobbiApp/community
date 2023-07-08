@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg17014"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17016"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.57848045"
+     inkscape:cx="397.59338"
+     inkscape:cy="191.88202"
+     inkscape:window-width="1360"
+     inkscape:window-height="745"
+     inkscape:window-x="3278"
+     inkscape:window-y="229"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="169.15466,154.79187"
+       orientation="0,-1"
+       id="guide27415" />
+    <sodipodi:guide
+       position="132.82031,270.40118"
+       orientation="0,-1"
+       id="guide27417" />
+  </sodipodi:namedview>
+  <defs
+     id="defs17011">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient22282">
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:1;"
+         offset="0"
+         id="stop22278" />
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:0;"
+         offset="1"
+         id="stop22280" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient21647">
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:1;"
+         offset="0"
+         id="stop21643" />
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:0;"
+         offset="1"
+         id="stop21645" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient21647"
+       id="linearGradient21649"
+       x1="95.176491"
+       y1="85.853203"
+       x2="61.538231"
+       y2="85.594353"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2537309,0,0,1.0277593,-27.963611,-3.0208676)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient22282"
+       id="linearGradient22284"
+       x1="168.99129"
+       y1="59.158142"
+       x2="128.49591"
+       y2="92.099113"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.99;fill:#260729;fill-opacity:1;stroke:none;stroke-width:1.20491;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1066-9-5"
+       width="28.03367"
+       height="115.60931"
+       x="56.402325"
+       y="26.598822"
+       ry="9.6049051"
+       inkscape:export-filename="C:\Users\Dev. Aníbal Henrique\OneDrive\Área de Trabalho\logo-kobbi.png"
+       inkscape:export-xdpi="93.931419"
+       inkscape:export-ydpi="93.931419" />
+    <rect
+       style="opacity:0.99;fill:url(#linearGradient21649);fill-opacity:1;stroke:none;stroke-width:1.20491;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1066-9"
+       width="28.03367"
+       height="115.60931"
+       x="84.435997"
+       y="26.598822"
+       ry="9.6049051"
+       inkscape:export-filename="C:\Users\Dev. Aníbal Henrique\OneDrive\Área de Trabalho\logo-kobbi.png"
+       inkscape:export-xdpi="93.931419"
+       inkscape:export-ydpi="93.931419" />
+    <path
+       style="mix-blend-mode:lighten;fill:url(#linearGradient22284);fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 121.48661,79.691881 38.00097,-52.701244 35.14152,1.28897 -42.87808,58.942984 44.18824,55.108429 h -41.462 L 115.36189,86.693111 Z"
+       id="path1502"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Users\Dev. Aníbal Henrique\OneDrive\Área de Trabalho\logo-kobbi.png"
+       inkscape:export-xdpi="93.931419"
+       inkscape:export-ydpi="93.931419" />
+    <path
+       style="fill:#260729;fill-opacity:1;stroke:#64223e;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 134.84835,61.118281 61.09091,81.212739 h -41.462 L 115.36189,86.693111 Z"
+       id="path5924"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Dev. Aníbal Henrique\OneDrive\Área de Trabalho\logo-kobbi.png"
+       inkscape:export-xdpi="93.931419"
+       inkscape:export-ydpi="93.931419" />
+  </g>
+</svg>
